@@ -1,0 +1,28 @@
+html {
+	background-color: #e3e3e3
+	font-family: arial, sans-serif;
+}
+
+div {
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+	font-size: 20px;
+}
+
+div2 {
+	padding-left:595px;
+}
+
+p {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top:50px;
+	margin-bottom:100px;
+}
+
+h2 {
+	text-align: center;
+}
