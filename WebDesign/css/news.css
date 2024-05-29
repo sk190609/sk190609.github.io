@@ -1,16 +1,19 @@
-body {
+html {
 	background-color: #e3e3e3
+	font-family: arial, sans-serif;
 }
 
 div {
 	text-align: center;
-	font-family: arial, sans-serif;
 }
 
 nav {
 	text-align: center;
 	font-size: 20px;
-	font-family: arial, sans-serif;
+}
+
+div2 {
+	padding-left:595px;
 }
 
 p {
@@ -18,17 +21,8 @@ p {
 	margin-right: 100px;
 	margin-top:50px;
 	margin-bottom:100px;
-	font-family: arial, sans-serif;
 }
 
 h2 {
 	text-align: center;
-}
-
-div2 {
-	padding-left:595px;
-}
-
- {
-	font-family: arial, sans-serif;
 }
